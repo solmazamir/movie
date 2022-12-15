@@ -7,7 +7,7 @@ import {
   GET_MOVIE_INFO_INTO_STATE,
 } from "./actiontypes";
 import axios from "axios";
-const api = "a91ebceb";
+const api = "989b193a";
 
 export function searchMovies(movies) {
   return {
